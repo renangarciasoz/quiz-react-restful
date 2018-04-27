@@ -1,6 +1,6 @@
 # React Quiz
 
-Criado com [Create React App](https://github.com/facebookincubator/create-react-app)
+Criado com [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Seguindo o tutorial do [Free Code Camp](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
 
 ## Get Started
