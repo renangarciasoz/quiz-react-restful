@@ -18,6 +18,7 @@ Instalar as dependencias do server e do client
 yarn
 cd client
 yarn
+cd ..
 ```
 
 Para rodar o projeto com o server e o client junto (dentro do diretório raiz)
