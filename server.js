@@ -2,7 +2,6 @@ const express = require('express');
 
 const app = express();
 const port = process.env.PORT || 5000;
-const quiz = require('./api/models/quizModel');
 const bodyParser = require('body-parser');
 
 app.use(function (req, res, next) {
