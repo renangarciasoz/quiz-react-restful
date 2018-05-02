@@ -9,6 +9,7 @@ Instalar [nodemon](https://github.com/remy/nodemon) globally
 
 ```
 npm i nodemon -g
+npm i yarn -g
 ```
 
 Instalar as dependencias do server e do client
@@ -22,7 +23,7 @@ yarn
 Para rodar o projeto com o server e o client junto (dentro do diretório raiz)
 
 ```
-yarn dev
+npm run dev
 ```
 
 Rodando o client em modo de desenvolvimento.<br>
